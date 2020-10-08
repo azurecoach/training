@@ -30,7 +30,7 @@ twitter_username: mseme
 github_username:  azurecoach
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
