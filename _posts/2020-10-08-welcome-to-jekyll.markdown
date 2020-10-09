@@ -8,5 +8,8 @@ categories: ide
 # Entwicklungsumgebung #
 [Visual Studio Code](https://code.visualstudio.com/Download)
 
-## Extensions ##
+** Extensions **
+
+# Azure Command Line Interface #
+[Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 
